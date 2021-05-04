@@ -1,0 +1,9 @@
+{
+  "dir_files" : "<folder-files>",
+  "ftp_host" : "<ftpsever-host>",
+  "ftp_port" : <ftpsever-port>,
+  "ftp_user" : "<ftpsever-username>",
+  "ftp_pass" : "<ftpsever-password>",
+  "delay" : 1,
+  "cyclic" : true
+}
