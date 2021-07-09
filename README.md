@@ -1,7 +1,7 @@
 # PythonFTPClient
 
 ## Description
-The **PythonFTPClient** is a project that shows how to implement a FTP client using Python language.
+Project that show how to implement a FTP client using Python language.
 
 ## Technologies
 The project uses the following technologies:
