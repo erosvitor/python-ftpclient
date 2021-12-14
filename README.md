@@ -1,14 +1,6 @@
 ## About
 The project shows how to implement a FTP client using Python language.
 
-## Technologies
-The following tools were used in this project:
-
-* [Python](https://www.python.org/)
-
-## Requirements
-Before starting this project you need to have Git and Python 3 installed.
-
 ## Starting the project
 
 ### Clonning the project
@@ -39,8 +31,3 @@ $ python3 ftpclient.py
 
 ## License
 This project is under license from MIT. For more details, see the LICENSE file.
-
-## Release History
-
-* 1.0.0 (2021-05-04)
-    * First version
